@@ -1,0 +1,746 @@
+[
+{
+"name": "allgaeu",
+"desc": "Allgaeu region"
+},
+{
+"name": "altes-land",
+"desc": "Altes Land"
+},
+{
+"name": "ankuendigungen",
+"desc": "Announcements"
+},
+{
+"name": "aurora",
+"desc": "Northern lights sightings"
+},
+{
+"name": "bbxdwd",
+"desc": "Warnungen vom Deutschen Wetterdienst (Region Berlin)"
+},
+{
+"name": "bergischesland",
+"desc": "Bergisches Land region (east of Cologne)"
+},
+{
+"name": "bergstrasse",
+"desc": "South Hesse Bergstrasse area"
+},
+{
+"name": "berlin",
+"desc": "Berlin"
+},
+{
+"name": "berlinbrandenburg",
+"desc": "Berlin/Brandenburg"
+},
+{
+"name": "bern",
+"desc": "Bern region"
+},
+{
+"name": "bienen",
+"desc": "Beekeeping/honey production"
+},
+{
+"name": "bochum",
+"desc": "Bochum/Herne area"
+},
+{
+"name": "boeblingen",
+"desc": "Boeblingen district"
+},
+{
+"name": "bonn",
+"desc": "bonn"
+},
+{
+"name": "bot",
+"desc": "Bot services in some regions"
+},
+{
+"name": "brandenburg",
+"desc": "Brandenburg"
+},
+{
+"name": "bremesh",
+"desc": "Local Bremen channel"
+},
+{
+"name": "bsmesh",
+"desc": "Braunschweig/Wolfsburg region"
+},
+{
+"name": "bw",
+"desc": "Baden-Württemberg (statewide)"
+},
+{
+"name": "bw-kn",
+"desc": "Konstanz district (experimental)"
+},
+{
+"name": "chat",
+"desc": "chat"
+},
+{
+"name": "chtest",
+"desc": "Main MeshCore testing channel"
+},
+{
+"name": "cmdd",
+"desc": "Critical Mass Dresden cycling community"
+},
+{
+"name": "criticalmass",
+"desc": "Cycling activism coordination"
+},
+{
+"name": "darmstadt",
+"desc": "Darmstadt and southern Hesse"
+},
+{
+"name": "dd-companion",
+"desc": "Companion device support"
+},
+{
+"name": "dd-meshcon",
+"desc": "Physical meetup coordination"
+},
+{
+"name": "dd-ping",
+"desc": "Local ping channel for experiments"
+},
+{
+"name": "dd-repeater",
+"desc": "Repeater/configuration support"
+},
+{
+"name": "dd-roomserver",
+"desc": "Room Server support"
+},
+{
+"name": "de",
+"desc": "de"
+},
+{
+"name": "de-bb-bar",
+"desc": "Barnim district"
+},
+{
+"name": "de-bb-cb",
+"desc": "Cottbus"
+},
+{
+"name": "de-bb-ee",
+"desc": "Elbe-Elster district"
+},
+{
+"name": "de-bb-ffo",
+"desc": "Frankfurt (Oder)"
+},
+{
+"name": "de-bb-hvl",
+"desc": "Havelland district"
+},
+{
+"name": "de-bb-lds",
+"desc": "Dahme-Spreewald district"
+},
+{
+"name": "de-bb-los",
+"desc": "Oder-Spree district"
+},
+{
+"name": "de-bb-mol",
+"desc": "Maerkisch Oderland district"
+},
+{
+"name": "de-bb-ohv",
+"desc": "Oberhavel district"
+},
+{
+"name": "de-bb-opr",
+"desc": "Ostprignitz-Ruppin district"
+},
+{
+"name": "de-bb-osl",
+"desc": "Oberspreewald-Lausitz district"
+},
+{
+"name": "de-bb-pm",
+"desc": "Potsdam Mittelmark district"
+},
+{
+"name": "de-bb-pr",
+"desc": "Prignitz district"
+},
+{
+"name": "de-bb-spn",
+"desc": "Spree-Neisse district"
+},
+{
+"name": "de-bb-tf",
+"desc": "Teltow-Flaeming district"
+},
+{
+"name": "de-bb-um",
+"desc": "Uckermark district"
+},
+{
+"name": "de-sn-dd",
+"desc": "Region/scope experiments"
+},
+{
+"name": "de-sn-mei",
+"desc": "Meissen region experiments"
+},
+{
+"name": "de-sn-pir",
+"desc": "Pirna region experiments"
+},
+{
+"name": "detmold",
+"desc": "Detmold"
+},
+{
+"name": "deutschland",
+"desc": "deutschland"
+},
+{
+"name": "dev",
+"desc": "developers"
+},
+{
+"name": "df0uk",
+"desc": "University amateur radio group at KIT"
+},
+{
+"name": "dl",
+"desc": "dl"
+},
+{
+"name": "dl-mitte",
+"desc": "Central Germany region"
+},
+{
+"name": "dme",
+"desc": "dme"
+},
+{
+"name": "dresden",
+"desc": "Dresden community"
+},
+{
+"name": "drg",
+"desc": "Donnersberg Relay Group"
+},
+{
+"name": "drk",
+"desc": "German Red Cross members"
+},
+{
+"name": "duisburg",
+"desc": "duisburg"
+},
+{
+"name": "durlach",
+"desc": "Karlsruhe district"
+},
+{
+"name": "eifel",
+"desc": "Eifel region"
+},
+{
+"name": "emergency",
+"desc": "Not recommended"
+},
+{
+"name": "erfurt",
+"desc": "Erfurt"
+},
+{
+"name": "ergolding",
+"desc": "Ergolding, Landshut district"
+},
+{
+"name": "ergoldsbach",
+"desc": "Ergoldsbach, Landshut district"
+},
+{
+"name": "essen",
+"desc": "Essen (Ruhr)"
+},
+{
+"name": "ettlingen",
+"desc": "City in Karlsruhe district"
+},
+{
+"name": "feuerwehr",
+"desc": "Fire service interest group"
+},
+{
+"name": "ffdd",
+"desc": "Freifunk Dresden community networks"
+},
+{
+"name": "ffnw",
+"desc": "Freifunk Nordwest"
+},
+{
+"name": "fichtelgebirge",
+"desc": "Sparse mesh coverage"
+},
+{
+"name": "franken",
+"desc": "Franconia region"
+},
+{
+"name": "frankfurt",
+"desc": "Frankfurt"
+},
+{
+"name": "freiburg",
+"desc": "Freiburg im Breisgau region"
+},
+{
+"name": "freifunk",
+"desc": "Open community wireless networks"
+},
+{
+"name": "friesland",
+"desc": "Friesland district"
+},
+{
+"name": "fuerth",
+"desc": "Fuerth"
+},
+{
+"name": "general",
+"desc": "general chat"
+},
+{
+"name": "germany",
+"desc": "germany"
+},
+{
+"name": "groetzingen",
+"desc": "Karlsruhe district"
+},
+{
+"name": "h33",
+"desc": "DARC local group H33 Salzgitter Lebenstedt"
+},
+{
+"name": "hamradio",
+"desc": "Amateur radio"
+},
+{
+"name": "hannover",
+"desc": "Hanover area"
+},
+{
+"name": "hansemesh",
+"desc": "Hamburg Hansemesh MeshCore group discussion"
+},
+{
+"name": "hbn",
+"desc": "Hildburghausen district"
+},
+{
+"name": "helmstedt",
+"desc": "Helmstedt district"
+},
+{
+"name": "help",
+"desc": "help"
+},
+{
+"name": "info",
+"desc": "info"
+},
+{
+"name": "ingolstadt",
+"desc": "Ingolstadt"
+},
+{
+"name": "jena",
+"desc": "Jena"
+},
+{
+"name": "jockgrim",
+"desc": "Jockgrim"
+},
+{
+"name": "jokes",
+"desc": "Humor sharing"
+},
+{
+"name": "ka-pf",
+"desc": "Karlsruhe and Pforzheim regions"
+},
+{
+"name": "karlsruhe",
+"desc": "Stadt- und Landkreis Karlsruhe, angrenzende Gemeinden"
+},
+{
+"name": "kats",
+"desc": "Disaster protection coordination"
+},
+{
+"name": "koblenz",
+"desc": "Koblenz"
+},
+{
+"name": "koeln",
+"desc": "koeln"
+},
+{
+"name": "konfiguration",
+"desc": "Repeater/companion configuration"
+},
+{
+"name": "landkreis-harburg",
+"desc": "Harburg district"
+},
+{
+"name": "landshut",
+"desc": "Landshut city and district"
+},
+{
+"name": "leipzig",
+"desc": "Leipzig"
+},
+{
+"name": "leverkusen",
+"desc": "leverkusen"
+},
+{
+"name": "lippstadt",
+"desc": "Lippstadt"
+},
+{
+"name": "lk-stade",
+"desc": "Stade district"
+},
+{
+"name": "lkgr",
+"desc": "Görlitz city and district"
+},
+{
+"name": "local",
+"desc": "local"
+},
+{
+"name": "lohmar",
+"desc": "lohmar"
+},
+{
+"name": "magdeburg",
+"desc": "Magdeburg"
+},
+{
+"name": "makerspace",
+"desc": "3D printing, laser cutting, CNC"
+},
+{
+"name": "meow",
+"desc": "meow"
+},
+{
+"name": "meshcore",
+"desc": "Information about MeshCore"
+},
+{
+"name": "meshcorenetz",
+"desc": "MeshCoreNetz.de community"
+},
+{
+"name": "meshoe",
+"desc": "meshoe"
+},
+{
+"name": "mhl",
+"desc": "Muehlhausen"
+},
+{
+"name": "mkk",
+"desc": "Main-Kinzig-Kreis"
+},
+{
+"name": "mosel",
+"desc": "Moselle valley (Trier area)"
+},
+{
+"name": "muelheim",
+"desc": "Muelheim an der Ruhr"
+},
+{
+"name": "muenchen",
+"desc": "Munich city and district"
+},
+{
+"name": "muenster",
+"desc": "muenster"
+},
+{
+"name": "news",
+"desc": "Nachrichten von butenunbinnen.de"
+},
+{
+"name": "niedersachsen",
+"desc": "Lower Saxony"
+},
+{
+"name": "nordharz",
+"desc": "Grossraum Hannover, Braunschweig, Helmstedt, Halberstadt, Magdeburg"
+},
+{
+"name": "nrw",
+"desc": "North Rhine-Westphalia"
+},
+{
+"name": "nuernberg",
+"desc": "Nuremberg"
+},
+{
+"name": "oberbayern",
+"desc": "Upper Bavaria"
+},
+{
+"name": "oberfranken",
+"desc": "Upper Franconia"
+},
+{
+"name": "oberhessen",
+"desc": "Upper Hesse region"
+},
+{
+"name": "pamina",
+"desc": "South Palatinate/Baden/Alsace area"
+},
+{
+"name": "passau",
+"desc": "Passau"
+},
+{
+"name": "pforzheim",
+"desc": "Pforzheim and Enz district"
+},
+{
+"name": "ping",
+"desc": "Ping/pong tests with bot responses"
+},
+{
+"name": "pota",
+"desc": "Parks on the Air amateur radio"
+},
+{
+"name": "public",
+"desc": "hashtag public"
+},
+{
+"name": "region-muc",
+"desc": "European Metropolitan Region Munich"
+},
+{
+"name": "rennsteigmesh",
+"desc": "Global Rennsteig trail channel"
+},
+{
+"name": "reutlingen",
+"desc": "Reutlingen region"
+},
+{
+"name": "rhein-main",
+"desc": "Frankfurt/Rhine-Main metro area"
+},
+{
+"name": "rhein-neckar",
+"desc": "Rhein-Neckar metropolitan region"
+},
+{
+"name": "rheinland",
+"desc": "rheinland"
+},
+{
+"name": "rosenheim",
+"desc": "Rosenheim region"
+},
+{
+"name": "ruhrgebiet",
+"desc": "Ruhr area"
+},
+{
+"name": "saarland",
+"desc": "Saarland"
+},
+{
+"name": "saarlorlux",
+"desc": "Saar-Lor-Lux cross-border region (DE/FR/LU)"
+},
+{
+"name": "sarlorlux",
+"desc": "Saarland"
+},
+{
+"name": "sauerland",
+"desc": "Sauerland region"
+},
+{
+"name": "seeland",
+"desc": "Biel/Bienne region"
+},
+{
+"name": "seevetal",
+"desc": "Seevetal municipality"
+},
+{
+"name": "sn",
+"desc": "Saxony"
+},
+{
+"name": "soest",
+"desc": "Soest district"
+},
+{
+"name": "sos",
+"desc": "Recommended emergency channel"
+},
+{
+"name": "sota",
+"desc": "Summits on the Air amateur radio"
+},
+{
+"name": "sports",
+"desc": "Sports enthusiasts"
+},
+{
+"name": "st",
+"desc": "Saxony-Anhalt"
+},
+{
+"name": "stricken",
+"desc": "Knitting and handicrafts"
+},
+{
+"name": "stuttgart",
+"desc": "Stuttgart metropolitan region"
+},
+{
+"name": "suisse",
+"desc": "French-speaking Switzerland"
+},
+{
+"name": "svizzera",
+"desc": "Italian-speaking Switzerland"
+},
+{
+"name": "switzerland",
+"desc": "An open channel where everybody is welcome to chat"
+},
+{
+"name": "taubertal",
+"desc": "Tauber Valley region"
+},
+{
+"name": "taunus",
+"desc": "Taunus region (www.taunus-mesh.de)"
+},
+{
+"name": "test",
+"desc": "Hardware testing; supports local/lokal scope"
+},
+{
+"name": "testing",
+"desc": "Not recommended"
+},
+{
+"name": "testkanal",
+"desc": "General testing channel"
+},
+{
+"name": "th",
+"desc": "Thuringia"
+},
+{
+"name": "themar",
+"desc": "Themar"
+},
+{
+"name": "thw",
+"desc": "Emergency services group"
+},
+{
+"name": "trier",
+"desc": "trier"
+},
+{
+"name": "ulm",
+"desc": "Ulm and Neu-Ulm region"
+},
+{
+"name": "untermain",
+"desc": "Alzenau/Aschaffenburg/Miltenberg area"
+},
+{
+"name": "verkehr",
+"desc": "Traffic info from bremenvier.de"
+},
+{
+"name": "wallis",
+"desc": "Valais canton"
+},
+{
+"name": "wardriving",
+"desc": "wardriving"
+},
+{
+"name": "warnings",
+"desc": "Official authority warnings"
+},
+{
+"name": "weather",
+"desc": "weather"
+},
+{
+"name": "weinstrasse",
+"desc": "German Wine Route"
+},
+{
+"name": "westerwald",
+"desc": "Westerwald region"
+},
+{
+"name": "wetter",
+"desc": "Weather information"
+},
+{
+"name": "wetterau",
+"desc": "Wetterau district"
+},
+{
+"name": "woerth-am-rhein",
+"desc": "Woerth am Rhein"
+},
+{
+"name": "wolfsburg",
+"desc": "Wolfsburg city"
+},
+{
+"name": "worms",
+"desc": "Worms and Rhenish Hesse"
+},
+{
+"name": "zak",
+"desc": "Zollernalbkreis district"
+},
+{
+"name": "zuerich",
+"desc": "Zurich canton and city"
+},
+{
+"name": "zwickau",
+"desc": "Zwickau"
+}
+]

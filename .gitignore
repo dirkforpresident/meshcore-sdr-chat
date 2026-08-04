@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+*.bin
+*.iq
+build/
+.DS_Store
+*.jsonl
+channel_crack
+state.json
+chat_history.jsonl
+map.html

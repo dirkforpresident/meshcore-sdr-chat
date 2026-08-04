@@ -1,0 +1,1502 @@
+[
+{
+"code": "bonn",
+"name": "Bonn"
+},
+{
+"code": "bsmesh",
+"name": "Bsmesh"
+},
+{
+"code": "de-31",
+"name": "31"
+},
+{
+"code": "de-abo",
+"name": "abo"
+},
+{
+"code": "de-at",
+"name": "at"
+},
+{
+"code": "de-aur",
+"name": "aur"
+},
+{
+"code": "de-bb",
+"name": "Brandenburg"
+},
+{
+"code": "de-bb-bar",
+"name": "bar"
+},
+{
+"code": "de-bb-be",
+"name": "be"
+},
+{
+"code": "de-bb-cb",
+"name": "cb"
+},
+{
+"code": "de-bb-ee",
+"name": "ee"
+},
+{
+"code": "de-bb-hvl",
+"name": "hvl"
+},
+{
+"code": "de-bb-lds",
+"name": "lds"
+},
+{
+"code": "de-bb-los",
+"name": "los"
+},
+{
+"code": "de-bb-mol",
+"name": "mol"
+},
+{
+"code": "de-bb-ohv",
+"name": "ohv"
+},
+{
+"code": "de-bb-opr",
+"name": "opr"
+},
+{
+"code": "de-bb-osl",
+"name": "osl"
+},
+{
+"code": "de-bb-p",
+"name": "p"
+},
+{
+"code": "de-bb-pm",
+"name": "pm"
+},
+{
+"code": "de-bb-um",
+"name": "um"
+},
+{
+"code": "de-be",
+"name": "Berlin"
+},
+{
+"code": "de-be-bb",
+"name": "bb"
+},
+{
+"code": "de-be-gps",
+"name": "gps"
+},
+{
+"code": "de-be-neukoelln",
+"name": "neukoelln"
+},
+{
+"code": "de-be-rudow",
+"name": "rudow"
+},
+{
+"code": "de-be-sw",
+"name": "sw"
+},
+{
+"code": "de-be-ulm",
+"name": "ulm"
+},
+{
+"code": "de-bebb",
+"name": "bebb"
+},
+{
+"code": "de-bensheim",
+"name": "bensheim"
+},
+{
+"code": "de-ber",
+"name": "ber"
+},
+{
+"code": "de-bs",
+"name": "bs"
+},
+{
+"code": "de-bw",
+"name": "Baden-Württemberg"
+},
+{
+"code": "de-bw-a22",
+"name": "a22"
+},
+{
+"code": "de-bw-aa",
+"name": "aa"
+},
+{
+"code": "de-bw-adk",
+"name": "adk"
+},
+{
+"code": "de-bw-bad",
+"name": "bad"
+},
+{
+"code": "de-bw-bb",
+"name": "bb"
+},
+{
+"code": "de-bw-bc",
+"name": "bc"
+},
+{
+"code": "de-bw-bk",
+"name": "bk"
+},
+{
+"code": "de-bw-br",
+"name": "br"
+},
+{
+"code": "de-bw-cr",
+"name": "cr"
+},
+{
+"code": "de-bw-cw",
+"name": "cw"
+},
+{
+"code": "de-bw-em",
+"name": "em"
+},
+{
+"code": "de-bw-es",
+"name": "es"
+},
+{
+"code": "de-bw-fds",
+"name": "fds"
+},
+{
+"code": "de-bw-fr",
+"name": "fr"
+},
+{
+"code": "de-bw-gp",
+"name": "gp"
+},
+{
+"code": "de-bw-hdh",
+"name": "hdh"
+},
+{
+"code": "de-bw-heslach",
+"name": "heslach"
+},
+{
+"code": "de-bw-hn",
+"name": "hn"
+},
+{
+"code": "de-bw-hor",
+"name": "hor"
+},
+{
+"code": "de-bw-ka",
+"name": "ka"
+},
+{
+"code": "de-bw-kg",
+"name": "kg"
+},
+{
+"code": "de-bw-l",
+"name": "l"
+},
+{
+"code": "de-bw-lb",
+"name": "lb"
+},
+{
+"code": "de-bw-leo",
+"name": "leo"
+},
+{
+"code": "de-bw-loe",
+"name": "loe"
+},
+{
+"code": "de-bw-ma",
+"name": "ma"
+},
+{
+"code": "de-bw-mn",
+"name": "mn"
+},
+{
+"code": "de-bw-muel",
+"name": "muel"
+},
+{
+"code": "de-bw-og",
+"name": "og"
+},
+{
+"code": "de-bw-pf",
+"name": "pf"
+},
+{
+"code": "de-bw-ra",
+"name": "ra"
+},
+{
+"code": "de-bw-rt",
+"name": "rt"
+},
+{
+"code": "de-bw-rw",
+"name": "rw"
+},
+{
+"code": "de-bw-s",
+"name": "s"
+},
+{
+"code": "de-bw-sbh",
+"name": "sbh"
+},
+{
+"code": "de-bw-sha",
+"name": "sha"
+},
+{
+"code": "de-bw-st",
+"name": "st"
+},
+{
+"code": "de-bw-str",
+"name": "str"
+},
+{
+"code": "de-bw-sued",
+"name": "sued"
+},
+{
+"code": "de-bw-swb",
+"name": "swb"
+},
+{
+"code": "de-bw-tue",
+"name": "tue"
+},
+{
+"code": "de-bw-tut",
+"name": "tut"
+},
+{
+"code": "de-bw-ul",
+"name": "ul"
+},
+{
+"code": "de-bw-ulm",
+"name": "ulm"
+},
+{
+"code": "de-bw-va",
+"name": "va"
+},
+{
+"code": "de-bw-vai",
+"name": "vai"
+},
+{
+"code": "de-bw-vs",
+"name": "vs"
+},
+{
+"code": "de-bw-wn",
+"name": "wn"
+},
+{
+"code": "de-bw-wt",
+"name": "wt"
+},
+{
+"code": "de-bw-zak",
+"name": "zak"
+},
+{
+"code": "de-by",
+"name": "Bayern"
+},
+{
+"code": "de-by-aux",
+"name": "aux"
+},
+{
+"code": "de-by-bw",
+"name": "bw"
+},
+{
+"code": "de-by-bwald",
+"name": "bwald"
+},
+{
+"code": "de-by-da",
+"name": "da"
+},
+{
+"code": "de-by-dah",
+"name": "dah"
+},
+{
+"code": "de-by-dlg",
+"name": "dlg"
+},
+{
+"code": "de-by-ebe",
+"name": "ebe"
+},
+{
+"code": "de-by-ebe-marktschwaben",
+"name": "marktschwaben"
+},
+{
+"code": "de-by-ed",
+"name": "ed"
+},
+{
+"code": "de-by-emm",
+"name": "emm"
+},
+{
+"code": "de-by-ffb",
+"name": "ffb"
+},
+{
+"code": "de-by-fr",
+"name": "fr"
+},
+{
+"code": "de-by-fr-fue",
+"name": "fue"
+},
+{
+"code": "de-by-fr-n",
+"name": "n"
+},
+{
+"code": "de-by-fra",
+"name": "fra"
+},
+{
+"code": "de-by-fs",
+"name": "fs"
+},
+{
+"code": "de-by-fue",
+"name": "fue"
+},
+{
+"code": "de-by-gz",
+"name": "gz"
+},
+{
+"code": "de-by-ill",
+"name": "ill"
+},
+{
+"code": "de-by-kru",
+"name": "kru"
+},
+{
+"code": "de-by-kt",
+"name": "kt"
+},
+{
+"code": "de-by-l",
+"name": "l"
+},
+{
+"code": "de-by-la",
+"name": "la"
+},
+{
+"code": "de-by-li",
+"name": "li"
+},
+{
+"code": "de-by-mfr",
+"name": "mfr"
+},
+{
+"code": "de-by-mfr-er",
+"name": "er"
+},
+{
+"code": "de-by-mfr-erh",
+"name": "erh"
+},
+{
+"code": "de-by-mfr-fue",
+"name": "fue"
+},
+{
+"code": "de-by-mfr-n",
+"name": "n"
+},
+{
+"code": "de-by-mfr-nea",
+"name": "nea"
+},
+{
+"code": "de-by-mn",
+"name": "mn"
+},
+{
+"code": "de-by-msp",
+"name": "msp"
+},
+{
+"code": "de-by-muc",
+"name": "muc"
+},
+{
+"code": "de-by-n",
+"name": "n"
+},
+{
+"code": "de-by-nbay",
+"name": "nbay"
+},
+{
+"code": "de-by-nbg",
+"name": "nbg"
+},
+{
+"code": "de-by-ndb",
+"name": "ndb"
+},
+{
+"code": "de-by-nu",
+"name": "nu"
+},
+{
+"code": "de-by-nwald",
+"name": "nwald"
+},
+{
+"code": "de-by-oa",
+"name": "oa"
+},
+{
+"code": "de-by-oal",
+"name": "oal"
+},
+{
+"code": "de-by-obay",
+"name": "obay"
+},
+{
+"code": "de-by-obb",
+"name": "obb"
+},
+{
+"code": "de-by-ofr",
+"name": "ofr"
+},
+{
+"code": "de-by-ofr-ba",
+"name": "ba"
+},
+{
+"code": "de-by-ofr-bt",
+"name": "bt"
+},
+{
+"code": "de-by-ofr-co",
+"name": "co"
+},
+{
+"code": "de-by-ofr-fo",
+"name": "fo"
+},
+{
+"code": "de-by-ofr-kc",
+"name": "kc"
+},
+{
+"code": "de-by-ofr-peg",
+"name": "peg"
+},
+{
+"code": "de-by-opf",
+"name": "opf"
+},
+{
+"code": "de-by-opf-emcomm",
+"name": "emcomm"
+},
+{
+"code": "de-by-opf-new",
+"name": "new"
+},
+{
+"code": "de-by-otn",
+"name": "otn"
+},
+{
+"code": "de-by-pa",
+"name": "pa"
+},
+{
+"code": "de-by-rgbg",
+"name": "rgbg"
+},
+{
+"code": "de-by-ro",
+"name": "ro"
+},
+{
+"code": "de-by-schw",
+"name": "schw"
+},
+{
+"code": "de-by-sr",
+"name": "sr"
+},
+{
+"code": "de-by-sued",
+"name": "sued"
+},
+{
+"code": "de-by-sw",
+"name": "sw"
+},
+{
+"code": "de-by-ua",
+"name": "ua"
+},
+{
+"code": "de-by-ufr",
+"name": "ufr"
+},
+{
+"code": "de-by-ufr-sw",
+"name": "sw"
+},
+{
+"code": "de-by-ul",
+"name": "ul"
+},
+{
+"code": "de-by-wue",
+"name": "wue"
+},
+{
+"code": "de-ch",
+"name": "ch"
+},
+{
+"code": "de-de",
+"name": "de"
+},
+{
+"code": "de-debb",
+"name": "debb"
+},
+{
+"code": "de-dk",
+"name": "dk"
+},
+{
+"code": "de-doomsday",
+"name": "doomsday"
+},
+{
+"code": "de-emd",
+"name": "emd"
+},
+{
+"code": "de-europe",
+"name": "europe"
+},
+{
+"code": "de-ffnw",
+"name": "ffnw"
+},
+{
+"code": "de-fmo",
+"name": "fmo"
+},
+{
+"code": "de-fr",
+"name": "fr"
+},
+{
+"code": "de-fra",
+"name": "fra"
+},
+{
+"code": "de-fri",
+"name": "fri"
+},
+{
+"code": "de-gl",
+"name": "gl"
+},
+{
+"code": "de-goe",
+"name": "goe"
+},
+{
+"code": "de-h",
+"name": "h"
+},
+{
+"code": "de-h-hi",
+"name": "hi"
+},
+{
+"code": "de-ham",
+"name": "ham"
+},
+{
+"code": "de-hansemesh",
+"name": "hansemesh"
+},
+{
+"code": "de-hartz",
+"name": "hartz"
+},
+{
+"code": "de-harz",
+"name": "Harzregion"
+},
+{
+"code": "de-hb",
+"name": "Bremen"
+},
+{
+"code": "de-he",
+"name": "Hessen"
+},
+{
+"code": "de-he-fd",
+"name": "fd"
+},
+{
+"code": "de-he-gi",
+"name": "gi"
+},
+{
+"code": "de-he-gi-gi",
+"name": "gi"
+},
+{
+"code": "de-he-hef",
+"name": "hef"
+},
+{
+"code": "de-he-ks",
+"name": "ks"
+},
+{
+"code": "de-he-ldk",
+"name": "ldk"
+},
+{
+"code": "de-he-mtk",
+"name": "mtk"
+},
+{
+"code": "de-hes",
+"name": "hes"
+},
+{
+"code": "de-hh",
+"name": "Hamburg"
+},
+{
+"code": "de-hsk",
+"name": "hsk"
+},
+{
+"code": "de-ka",
+"name": "ka"
+},
+{
+"code": "de-ka-bw",
+"name": "bw"
+},
+{
+"code": "de-ki",
+"name": "ki"
+},
+{
+"code": "de-kiel",
+"name": "kiel"
+},
+{
+"code": "de-ko",
+"name": "ko"
+},
+{
+"code": "de-koblenz",
+"name": "koblenz"
+},
+{
+"code": "de-laho",
+"name": "laho"
+},
+{
+"code": "de-le",
+"name": "le"
+},
+{
+"code": "de-mh",
+"name": "mh"
+},
+{
+"code": "de-mitte",
+"name": "Mitteldeutschland"
+},
+{
+"code": "de-mitte-des",
+"name": "des"
+},
+{
+"code": "de-mpids",
+"name": "mpids"
+},
+{
+"code": "de-msl",
+"name": "msl"
+},
+{
+"code": "de-mv",
+"name": "Mecklenburg-Vorpommern"
+},
+{
+"code": "de-mv-dbr",
+"name": "dbr"
+},
+{
+"code": "de-mv-hgw",
+"name": "hgw"
+},
+{
+"code": "de-mv-hro",
+"name": "hro"
+},
+{
+"code": "de-mv-hst",
+"name": "hst"
+},
+{
+"code": "de-mv-lro",
+"name": "lro"
+},
+{
+"code": "de-mv-lup",
+"name": "lup"
+},
+{
+"code": "de-mv-mse",
+"name": "mse"
+},
+{
+"code": "de-mv-nb",
+"name": "nb"
+},
+{
+"code": "de-mv-nwm",
+"name": "nwm"
+},
+{
+"code": "de-mv-sbg",
+"name": "sbg"
+},
+{
+"code": "de-mv-sn",
+"name": "sn"
+},
+{
+"code": "de-mv-vg",
+"name": "vg"
+},
+{
+"code": "de-mv-vr",
+"name": "vr"
+},
+{
+"code": "de-ne",
+"name": "ne"
+},
+{
+"code": "de-ni",
+"name": "Niedersachsen"
+},
+{
+"code": "de-ni-bs",
+"name": "bs"
+},
+{
+"code": "de-ni-ce",
+"name": "ce"
+},
+{
+"code": "de-ni-dan",
+"name": "dan"
+},
+{
+"code": "de-ni-fri",
+"name": "fri"
+},
+{
+"code": "de-ni-frie",
+"name": "frie"
+},
+{
+"code": "de-ni-gf",
+"name": "gf"
+},
+{
+"code": "de-ni-goe",
+"name": "goe"
+},
+{
+"code": "de-ni-gs",
+"name": "Kreis Goslar"
+},
+{
+"code": "de-ni-h",
+"name": "h"
+},
+{
+"code": "de-ni-he",
+"name": "he"
+},
+{
+"code": "de-ni-hi",
+"name": "hi"
+},
+{
+"code": "de-ni-hm",
+"name": "hm"
+},
+{
+"code": "de-ni-hm-ho",
+"name": "ho"
+},
+{
+"code": "de-ni-hol",
+"name": "hol"
+},
+{
+"code": "de-ni-lg",
+"name": "lg"
+},
+{
+"code": "de-ni-nom",
+"name": "nom"
+},
+{
+"code": "de-ni-oha",
+"name": "oha"
+},
+{
+"code": "de-ni-ohz",
+"name": "ohz"
+},
+{
+"code": "de-ni-ol",
+"name": "ol"
+},
+{
+"code": "de-ni-ri",
+"name": "ri"
+},
+{
+"code": "de-ni-row",
+"name": "row"
+},
+{
+"code": "de-ni-shg",
+"name": "shg"
+},
+{
+"code": "de-ni-sz",
+"name": "sz"
+},
+{
+"code": "de-ni-ue",
+"name": "ue"
+},
+{
+"code": "de-ni-wf",
+"name": "wf"
+},
+{
+"code": "de-ni-whv",
+"name": "whv"
+},
+{
+"code": "de-ni-wl",
+"name": "wl"
+},
+{
+"code": "de-ni-wob",
+"name": "wob"
+},
+{
+"code": "de-ni-wst",
+"name": "wst"
+},
+{
+"code": "de-ni-wtm",
+"name": "wtm"
+},
+{
+"code": "de-nom",
+"name": "nom"
+},
+{
+"code": "de-nor",
+"name": "nor"
+},
+{
+"code": "de-nord",
+"name": "Norddeutschland"
+},
+{
+"code": "de-nrw",
+"name": "nrw"
+},
+{
+"code": "de-ns",
+"name": "ns"
+},
+{
+"code": "de-nw",
+"name": "Nordrhein-Westfalen"
+},
+{
+"code": "de-nw-bf",
+"name": "bf"
+},
+{
+"code": "de-nw-bi",
+"name": "bi"
+},
+{
+"code": "de-nw-bo",
+"name": "bo"
+},
+{
+"code": "de-nw-dt",
+"name": "dt"
+},
+{
+"code": "de-nw-e",
+"name": "e"
+},
+{
+"code": "de-nw-gl",
+"name": "gl"
+},
+{
+"code": "de-nw-gm",
+"name": "gm"
+},
+{
+"code": "de-nw-gt",
+"name": "gt"
+},
+{
+"code": "de-nw-hf",
+"name": "hf"
+},
+{
+"code": "de-nw-hol",
+"name": "hol"
+},
+{
+"code": "de-nw-hsk",
+"name": "hsk"
+},
+{
+"code": "de-nw-hx",
+"name": "hx"
+},
+{
+"code": "de-nw-le",
+"name": "le"
+},
+{
+"code": "de-nw-lip",
+"name": "lip"
+},
+{
+"code": "de-nw-lip-dt",
+"name": "dt"
+},
+{
+"code": "de-nw-lkmi",
+"name": "lkmi"
+},
+{
+"code": "de-nw-mh",
+"name": "mh"
+},
+{
+"code": "de-nw-mi",
+"name": "mi"
+},
+{
+"code": "de-nw-mitte",
+"name": "mitte"
+},
+{
+"code": "de-nw-mk",
+"name": "mk"
+},
+{
+"code": "de-nw-ms",
+"name": "ms"
+},
+{
+"code": "de-nw-oe",
+"name": "oe"
+},
+{
+"code": "de-nw-owl",
+"name": "Ostwestfalen-Lippe"
+},
+{
+"code": "de-nw-pb",
+"name": "pb"
+},
+{
+"code": "de-nw-pb-01",
+"name": "01"
+},
+{
+"code": "de-nw-pb-ahden",
+"name": "ahden"
+},
+{
+"code": "de-nw-pb-sennelager",
+"name": "sennelager"
+},
+{
+"code": "de-nw-re",
+"name": "re"
+},
+{
+"code": "de-nw-shg",
+"name": "shg"
+},
+{
+"code": "de-nw-so",
+"name": "so"
+},
+{
+"code": "de-nw-st",
+"name": "st"
+},
+{
+"code": "de-nw-su",
+"name": "su"
+},
+{
+"code": "de-nw-te",
+"name": "te"
+},
+{
+"code": "de-nw-west",
+"name": "west"
+},
+{
+"code": "de-oa",
+"name": "oa"
+},
+{
+"code": "de-ost",
+"name": "Ostdeutschland"
+},
+{
+"code": "de-ostfriesland",
+"name": "ostfriesland"
+},
+{
+"code": "de-owl",
+"name": "owl"
+},
+{
+"code": "de-pi",
+"name": "pi"
+},
+{
+"code": "de-rhoen",
+"name": "rhoen"
+},
+{
+"code": "de-rlp",
+"name": "rlp"
+},
+{
+"code": "de-rlp-dbg",
+"name": "dbg"
+},
+{
+"code": "de-rp",
+"name": "Rheinland-Pfalz"
+},
+{
+"code": "de-rp-dbg",
+"name": "dbg"
+},
+{
+"code": "de-rp-drg",
+"name": "drg"
+},
+{
+"code": "de-rp-ger",
+"name": "ger"
+},
+{
+"code": "de-rp-ingelheim",
+"name": "ingelheim"
+},
+{
+"code": "de-rp-kl",
+"name": "kl"
+},
+{
+"code": "de-rp-koblenz",
+"name": "koblenz"
+},
+{
+"code": "de-rp-wei",
+"name": "wei"
+},
+{
+"code": "de-rp-westerwal",
+"name": "westerwal"
+},
+{
+"code": "de-rp-ww",
+"name": "ww"
+},
+{
+"code": "de-sa",
+"name": "sa"
+},
+{
+"code": "de-saa",
+"name": "saa"
+},
+{
+"code": "de-sh",
+"name": "Schleswig-Holstein"
+},
+{
+"code": "de-sh-eck",
+"name": "eck"
+},
+{
+"code": "de-sh-hl",
+"name": "Lübeck"
+},
+{
+"code": "de-sh-ki",
+"name": "Kiel"
+},
+{
+"code": "de-sh-oh",
+"name": "oh"
+},
+{
+"code": "de-sh-pi",
+"name": "Pinneberg"
+},
+{
+"code": "de-sh-ploe",
+"name": "Plön"
+},
+{
+"code": "de-sh-rd",
+"name": "Rendsburg-Eckernförde"
+},
+{
+"code": "de-sh-slfl",
+"name": "Schleswig-Flensburg"
+},
+{
+"code": "de-sh-wacken",
+"name": "wacken"
+},
+{
+"code": "de-sl",
+"name": "Saarland"
+},
+{
+"code": "de-sl-beck",
+"name": "beck"
+},
+{
+"code": "de-sn",
+"name": "Sachsen"
+},
+{
+"code": "de-sn-bz",
+"name": "bz"
+},
+{
+"code": "de-sn-c",
+"name": "c"
+},
+{
+"code": "de-sn-chemnitz",
+"name": "chemnitz"
+},
+{
+"code": "de-sn-dd",
+"name": "Großraum Dresden"
+},
+{
+"code": "de-sn-dd-mei",
+"name": "mei"
+},
+{
+"code": "de-sn-dresden",
+"name": "dresden"
+},
+{
+"code": "de-sn-erz",
+"name": "erz"
+},
+{
+"code": "de-sn-erzgebirge",
+"name": "erzgebirge"
+},
+{
+"code": "de-sn-fg",
+"name": "fg"
+},
+{
+"code": "de-sn-km",
+"name": "km"
+},
+{
+"code": "de-sn-leipzig",
+"name": "leipzig"
+},
+{
+"code": "de-sn-mab",
+"name": "mab"
+},
+{
+"code": "de-sn-mei",
+"name": "Stadtregion Meißen"
+},
+{
+"code": "de-sn-mek",
+"name": "mek"
+},
+{
+"code": "de-sn-msn",
+"name": "msn"
+},
+{
+"code": "de-sn-pir",
+"name": "pir"
+},
+{
+"code": "de-sn-to",
+"name": "to"
+},
+{
+"code": "de-sn-vvo",
+"name": "Großraum Oberelbe (Verkehrsverbund Oberelbe)"
+},
+{
+"code": "de-sn-zi",
+"name": "zi"
+},
+{
+"code": "de-solling",
+"name": "solling"
+},
+{
+"code": "de-st",
+"name": "Sachsen-Anhalt"
+},
+{
+"code": "de-st-blk",
+"name": "blk"
+},
+{
+"code": "de-st-hbs",
+"name": "hbs"
+},
+{
+"code": "de-st-hz",
+"name": "hz"
+},
+{
+"code": "de-st-md",
+"name": "md"
+},
+{
+"code": "de-st-saw",
+"name": "saw"
+},
+{
+"code": "de-str",
+"name": "str"
+},
+{
+"code": "de-su",
+"name": "su"
+},
+{
+"code": "de-sued",
+"name": "Süddeutschland"
+},
+{
+"code": "de-test",
+"name": "test"
+},
+{
+"code": "de-th",
+"name": "Thüringen"
+},
+{
+"code": "de-th-ef",
+"name": "ef"
+},
+{
+"code": "de-th-gth",
+"name": "gth"
+},
+{
+"code": "de-th-hbn",
+"name": "hbn"
+},
+{
+"code": "de-th-j",
+"name": "j"
+},
+{
+"code": "de-th-jena",
+"name": "jena"
+},
+{
+"code": "de-th-mhl",
+"name": "mhl"
+},
+{
+"code": "de-th-ost",
+"name": "ost"
+},
+{
+"code": "de-th-ren",
+"name": "ren"
+},
+{
+"code": "de-th-shk",
+"name": "shk"
+},
+{
+"code": "de-th-shl",
+"name": "shl"
+},
+{
+"code": "de-th-slz",
+"name": "slz"
+},
+{
+"code": "de-th-sm",
+"name": "sm"
+},
+{
+"code": "de-th-sok",
+"name": "sok"
+},
+{
+"code": "de-th-son",
+"name": "son"
+},
+{
+"code": "de-th-themar",
+"name": "themar"
+},
+{
+"code": "de-th-wak",
+"name": "wak"
+},
+{
+"code": "de-thecore",
+"name": "thecore"
+},
+{
+"code": "de-w",
+"name": "w"
+},
+{
+"code": "de-west",
+"name": "Westdeutschland"
+},
+{
+"code": "de-wtm",
+"name": "wtm"
+},
+{
+"code": "drielande",
+"name": "Dreiländereck NL/BE/DE"
+},
+{
+"code": "eifel",
+"name": "Eifel"
+},
+{
+"code": "hansemesh",
+"name": "Hansemesh"
+},
+{
+"code": "koeln",
+"name": "Köln"
+},
+{
+"code": "leverkusen",
+"name": "Leverkusen"
+},
+{
+"code": "niederrhein",
+"name": "Niederrhein"
+},
+{
+"code": "rhein-main",
+"name": "Rhein-Main"
+},
+{
+"code": "rheinland",
+"name": "Rheinland"
+},
+{
+"code": "ruhrgebiet",
+"name": "Ruhrgebiet"
+},
+{
+"code": "trier",
+"name": "Trier"
+}
+]

@@ -1,0 +1,2 @@
+# Python dependency (pip). GNU Radio, gr-lora_sdr and UHD are system installs — see README.
+cryptography>=41
